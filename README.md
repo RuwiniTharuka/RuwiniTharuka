@@ -1,6 +1,11 @@
-## Hi there 👋
-
-<!--
+## Hi there 👋I'm Ruwini.
+Software Engineer
+Cyber Security
+Full Stack Developer
+UI/UX Designer
+Designer & Editor
+😄 
+<--
 **RuwiniTharuka/RuwiniTharuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
