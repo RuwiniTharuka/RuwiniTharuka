@@ -1,12 +1,9 @@
 
-![Animation - 1742520303964](https://github.com/user-attachments/assets/412b2dfb-1fce-4346-b80a-535ce8ca94d2)
 
 
+https://github.com/user-attachments/assets/dbbacdf3-28f6-4a32-8eca-94bd647cd368
 
-
-
-https://github.com/user-attachments/assets/470d7c28-8dc6-42f9-a917-752d35e19a25
-
+![Main Scene](https://github.com/user-attachments/assets/45e337ef-1984-4ba5-8eb3-c2d3b754c2b8)
 
 <h1 align="center">Hi 👋, I'm Ruwini Tharuka Nawarathna</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruwinitharuka&label=Profile%20views&color=0e75b6&style=flat" alt="ruwinitharuka" /> </p>
