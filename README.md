@@ -1,10 +1,4 @@
 
-
-
-https://github.com/user-attachments/assets/dbbacdf3-28f6-4a32-8eca-94bd647cd368
-
-![Main Scene](https://github.com/user-attachments/assets/45e337ef-1984-4ba5-8eb3-c2d3b754c2b8)
-
 <h1 align="center">Hi 👋, I'm Ruwini Tharuka Nawarathna</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruwinitharuka&label=Profile%20views&color=0e75b6&style=flat" alt="ruwinitharuka" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruwinitharuka" alt="ruwinitharuka" /></a> </p>
